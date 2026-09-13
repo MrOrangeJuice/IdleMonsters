@@ -119,8 +119,8 @@
   "maintainGms1Font":false,
   "name":"fUI",
   "parent":{
-    "name":"IdleMonsters",
-    "path":"IdleMonsters.yyp",
+    "name":"Fonts",
+    "path":"folders/Fonts.yy",
   },
   "pointRounding":0,
   "ranges":[

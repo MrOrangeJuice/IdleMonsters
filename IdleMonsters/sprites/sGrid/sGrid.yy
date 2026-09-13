@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"sGrid",
   "bboxMode":0,
-  "bbox_bottom":95,
+  "bbox_bottom":79,
   "bbox_left":0,
   "bbox_right":95,
   "bbox_top":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":16,
   "gridY":16,
-  "height":96,
+  "height":80,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"b3548fcb-aad8-47dd-a7a2-cdf35f4aef0b","blendMode":0,"displayName":"default","isLocked":false,"name":"b3548fcb-aad8-47dd-a7a2-cdf35f4aef0b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
