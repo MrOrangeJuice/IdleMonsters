@@ -9,7 +9,7 @@ for (var i = 0; i < INVENTORY_SLOTS; i++)
 		var alpha = 1.0;
 		if (oMouse.inventoryDrag == id) && (oMouse.slotDrag == i) alpha = 0.5;
 		draw_set_alpha(alpha);
-		draw_sprite(sMonster,inventory[i],xx,yy);	
+		draw_sprite(global.monsters[inventory[i]],global.frameTime,xx,yy);	
 		draw_set_alpha(1.0);
 	}
 }
